@@ -1,0 +1,47 @@
+.nav-padding {
+    padding: 0px 10px 0px 10px;
+    position: relative;
+    z-index: 980;
+}
+
+.post-report-menu {
+    color: #f0506e !important;
+}
+
+.post-report-menu:hover {
+    color: #ee395b !important;
+}
+
+.footer-hashtag {
+    border-top: none !important;
+}
+
+.text-deco-none {
+    text-decoration: none !important;
+}
+
+.footer-comment {
+    border-top: none !important;
+}
+
+.post-comment {
+    color:rgb(46, 44, 56);
+    font-weight: 400;
+    font-size:18px;
+}
+
+.post-comment-all {
+    color:rgb(46, 44, 56);
+    font-weight: 600;
+    font-size:16px;
+}
+
+.name_color {
+    color: rgb(25, 22, 31);
+}
+
+@media ( max-width: 768px ) {
+    .name_color {
+        display: block;
+    }
+}
